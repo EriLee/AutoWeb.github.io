@@ -1,10 +1,11 @@
-.. EriLee_TestDoc documentation master file, created by
-   sphinx-quickstart on Mon Oct 10 00:20:19 2016.
+.. Liya documentation master file, created by
+   sphinx-quickstart on Mon Oct 24 19:03:47 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EriLee_TestDoc's documentation!
-==========================================
+Welcome to LIYA'S Documentation!
+Time:20161024-19:08
+================================
 
 Contents:
 
